@@ -1,468 +1,468 @@
-Flight_ID,Date,Passenger_Count,Product_Name,Unit_Cost,Crew_Feedback,haul,Origin_DOH,Origin_JFK,Origin_LHR,Origin_MEX,Origin_NRT,Origin_ZRH,Product_BRD001,Product_CHO050,Product_COF200,Product_CRK075,Product_DRK023,Product_DRK024,Product_HTB110,Product_JCE200,Product_NUT030,Product_SNK001,Percentage_Returned
-LX110,2025-09-26,272,Bread Roll Pack,0.35,,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.327683615819209
-LX110,2025-09-26,272,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32653061224489793
-LX110,2025-09-26,272,Butter Cookies 75g,0.75,drawer incomplete,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2748091603053435
-LX110,2025-09-26,272,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18048780487804877
-LX110,2025-09-26,272,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.48223350253807107
-LX110,2025-09-26,272,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.4199134199134199
-LX110,2025-09-26,272,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.22905027932960895
-BA106,2025-09-26,289,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32515337423312884
-BA106,2025-09-26,289,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.20422535211267606
-BA106,2025-09-26,289,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.19463087248322147
-BA106,2025-09-26,289,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.468
-BA106,2025-09-26,289,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3811659192825112
-BA106,2025-09-26,289,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.22065727699530516
-BA108,2025-09-26,292,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.23076923076923078
-BA108,2025-09-26,292,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.2802547770700637
-BA108,2025-09-26,292,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.20279720279720279
-BA108,2025-09-26,292,Sparkling Water 330ml,0.45,,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.41706161137440756
-BA108,2025-09-26,292,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.19402985074626866
-BA108,2025-09-26,292,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.38188976377952755
-BA108,2025-09-26,292,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.4927536231884058
-AM101,2025-09-26,133,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.1978021978021978
-AM101,2025-09-26,133,Butter Cookies 75g,0.75,,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.3
-AM101,2025-09-26,133,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.44339622641509435
-AM101,2025-09-26,133,Still Water 500ml,0.5,,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.14150943396226415
-AM101,2025-09-26,133,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.17592592592592593
-AM101,2025-09-26,133,Snack Box Economy,2.1,drawer incomplete,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.4583333333333333
-LX102,2025-09-26,154,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.25
-LX102,2025-09-26,154,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.18309859154929578
-LX102,2025-09-26,154,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.275
-LX102,2025-09-26,154,Herbal Tea Bag,0.06,drawer incomplete,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.4788732394366197
-LX102,2025-09-26,154,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.48148148148148145
-LX102,2025-09-26,154,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.27848101265822783
-LX102,2025-09-26,154,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.38235294117647056
-LX117,2025-09-27,317,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.2119205298013245
-LX117,2025-09-27,317,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.327683615819209
-LX117,2025-09-27,317,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.2857142857142857
-LX117,2025-09-27,317,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.2986111111111111
-LX117,2025-09-27,317,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.44047619047619047
-LX117,2025-09-27,317,Snack Box Economy,2.1,low demand,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.45161290322580644
-LX118,2025-09-27,314,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.23115577889447236
-LX118,2025-09-27,314,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3096774193548387
-LX118,2025-09-27,314,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.32679738562091504
-LX118,2025-09-27,314,Juice 200ml,0.55,low demand,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.43529411764705883
-LX118,2025-09-27,314,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3248407643312102
-NH116,2025-09-27,150,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.1935483870967742
-NH116,2025-09-27,150,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.42857142857142855
-NH116,2025-09-27,150,Herbal Tea Bag,0.06,drawer incomplete,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.27710843373493976
-NH116,2025-09-27,150,Mixed Nuts 30g,0.65,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.12857142857142856
-LX124,2025-09-27,316,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.3263157894736842
-LX124,2025-09-27,316,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3072289156626506
-LX124,2025-09-27,316,Instant Coffee Stick,0.08,,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.37662337662337664
-LX124,2025-09-27,316,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.29914529914529914
-LX124,2025-09-27,316,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.376425855513308
-LX124,2025-09-27,316,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.36666666666666664
-LX124,2025-09-27,316,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.23333333333333334
-BA120,2025-09-27,336,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.178743961352657
-BA120,2025-09-27,336,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.3493975903614458
-BA120,2025-09-27,336,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2459016393442623
-BA120,2025-09-27,336,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.3443708609271523
-BA120,2025-09-27,336,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.2
-BA120,2025-09-27,336,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.30735930735930733
-LX119,2025-09-27,311,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.37790697674418605
-LX119,2025-09-27,311,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3191489361702128
-LX119,2025-09-27,311,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.1488095238095238
-LX119,2025-09-27,311,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3125
-LX119,2025-09-27,311,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.22602739726027396
-LX119,2025-09-27,311,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.23863636363636365
-LX119,2025-09-27,311,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.18095238095238095
-QR113,2025-09-27,141,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.4090909090909091
-QR113,2025-09-27,141,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.37142857142857144
-QR113,2025-09-27,141,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.18461538461538463
-QR113,2025-09-27,141,Butter Cookies 75g,0.75,,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.3924050632911392
-QR113,2025-09-27,141,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.3875968992248062
-QR113,2025-09-27,141,Mixed Nuts 30g,0.65,low demand,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.47761194029850745
-QR113,2025-09-27,141,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.35802469135802467
-NH133,2025-09-28,249,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3770491803278688
-NH133,2025-09-28,249,Butter Cookies 75g,0.75,,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2727272727272727
-NH133,2025-09-28,249,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.34977578475336324
-NH133,2025-09-28,249,Mixed Nuts 30g,0.65,drawer incomplete,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.17647058823529413
-NH133,2025-09-28,249,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.375
-QR134,2025-09-28,252,Chocolate Bar 50g,0.8,low demand,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.47863247863247865
-QR134,2025-09-28,252,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.14537444933920704
-QR134,2025-09-28,252,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.42857142857142855
-QR134,2025-09-28,252,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.4336734693877551
-AM129,2025-09-28,308,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.16
-AM129,2025-09-28,308,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.21370967741935484
-AM129,2025-09-28,308,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.16455696202531644
-AM129,2025-09-28,308,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4
-AM128,2025-09-28,146,Butter Cookies 75g,0.75,,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2727272727272727
-AM128,2025-09-28,146,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.37735849056603776
-AM128,2025-09-28,146,Mixed Nuts 30g,0.65,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.1875
-AM128,2025-09-28,146,Snack Box Economy,2.1,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3793103448275862
-AA135,2025-09-28,306,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3611111111111111
-AA135,2025-09-28,306,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.22602739726027396
-AA135,2025-09-28,306,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2916666666666667
-AA135,2025-09-28,306,Snack Box Economy,2.1,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.49404761904761907
-LX136,2025-09-28,293,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.34673366834170855
-LX136,2025-09-28,293,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3458646616541353
-LX136,2025-09-28,293,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.3106060606060606
-LX136,2025-09-28,293,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.20599250936329588
-BA132,2025-09-28,367,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.5
-BA132,2025-09-28,367,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.16908212560386474
-BA132,2025-09-28,367,Butter Cookies 75g,0.75,low demand,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.40718562874251496
-BA132,2025-09-28,367,Snack Box Economy,2.1,drawer incomplete,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.2693877551020408
-NH131,2025-09-28,297,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.22435897435897437
-NH131,2025-09-28,297,Sparkling Water 330ml,0.45,low demand,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.42792792792792794
-NH131,2025-09-28,297,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.40225563909774437
-NH131,2025-09-28,297,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.43356643356643354
-BA126,2025-09-28,135,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.43373493975903615
-BA126,2025-09-28,135,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.3188405797101449
-BA126,2025-09-28,135,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.211864406779661
-BA126,2025-09-28,135,Herbal Tea Bag,0.06,,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.2535211267605634
-BA126,2025-09-28,135,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.3055555555555556
-BA126,2025-09-28,135,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2
-BA126,2025-09-28,135,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.2976190476190476
-LX145,2025-09-29,276,Bread Roll Pack,0.35,,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.17721518987341772
-LX145,2025-09-29,276,Instant Coffee Stick,0.08,,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.1875
-LX145,2025-09-29,276,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.40789473684210525
-LX145,2025-09-29,276,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.26573426573426573
-LX146,2025-09-29,225,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.40336134453781514
-LX146,2025-09-29,225,Butter Cookies 75g,0.75,,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.39622641509433965
-LX146,2025-09-29,225,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18085106382978725
-LX146,2025-09-29,225,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.31088082901554404
-LX146,2025-09-29,225,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.22164948453608246
-LX146,2025-09-29,225,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.34615384615384615
-LX146,2025-09-29,225,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.16666666666666666
-AA141,2025-09-29,301,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.19095477386934673
-AA141,2025-09-29,301,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3081761006289308
-AA141,2025-09-29,301,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.19333333333333333
-AA141,2025-09-29,301,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.22072072072072071
-AA141,2025-09-29,301,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.33181818181818185
-BA142,2025-09-29,311,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32727272727272727
-BA142,2025-09-29,311,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3072289156626506
-BA142,2025-09-29,311,Butter Cookies 75g,0.75,low demand,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4189189189189189
-BA142,2025-09-29,311,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.5126050420168067
-BA142,2025-09-29,311,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.19883040935672514
-AA140,2025-09-29,166,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.32978723404255317
-AA140,2025-09-29,166,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.24050632911392406
-AA140,2025-09-29,166,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.4318181818181818
-AA140,2025-09-29,166,Butter Cookies 75g,0.75,,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.22988505747126436
-AA140,2025-09-29,166,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.30985915492957744
-AA140,2025-09-29,166,Snack Box Economy,2.1,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4
-NH147,2025-09-29,325,Bread Roll Pack,0.35,drawer incomplete,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.19069767441860466
-NH147,2025-09-29,325,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.30201342281879195
-NH147,2025-09-29,325,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.42196531791907516
-NH147,2025-09-29,325,Snack Box Economy,2.1,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.41379310344827586
-AA144,2025-09-29,268,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.32903225806451614
-AA144,2025-09-29,268,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.19111111111111112
-AA144,2025-09-29,268,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2866666666666667
-AA144,2025-09-29,268,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.29207920792079206
-AA144,2025-09-29,268,Snack Box Economy,2.1,low demand,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.43333333333333335
-BA143,2025-09-29,303,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3724137931034483
-BA143,2025-09-29,303,Sparkling Water 330ml,0.45,,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.39849624060150374
-BA143,2025-09-29,303,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.2772727272727273
-BA143,2025-09-29,303,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.26
-BA143,2025-09-29,303,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.3155080213903743
-LX157,2025-09-30,254,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3135593220338983
-LX157,2025-09-30,254,Butter Cookies 75g,0.75,,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2826086956521739
-LX157,2025-09-30,254,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.48205128205128206
-LX157,2025-09-30,254,Herbal Tea Bag,0.06,,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.26495726495726496
-LX157,2025-09-30,254,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.432258064516129
-LX153,2025-09-30,314,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2057142857142857
-LX153,2025-09-30,314,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2727272727272727
-LX153,2025-09-30,314,Butter Cookies 75g,0.75,drawer incomplete,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.21153846153846154
-LX153,2025-09-30,314,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.35294117647058826
-LX153,2025-09-30,314,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.24568965517241378
-QR151,2025-09-30,187,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.4
-QR151,2025-09-30,187,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.27
-QR151,2025-09-30,187,Butter Cookies 75g,0.75,,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3469387755102041
-QR151,2025-09-30,187,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.37681159420289856
-QR151,2025-09-30,187,Snack Box Economy,2.1,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.2975206611570248
-QR160,2025-09-30,285,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.4
-QR160,2025-09-30,285,Instant Coffee Stick,0.08,,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.375
-QR160,2025-09-30,285,Butter Cookies 75g,0.75,low demand,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.4025974025974026
-QR160,2025-09-30,285,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.43891402714932126
-QR160,2025-09-30,285,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3722627737226277
-QR160,2025-09-30,285,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.3716475095785441
-QR160,2025-09-30,285,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.23308270676691728
-QR156,2025-09-30,296,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.20512820512820512
-QR156,2025-09-30,296,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.375
-QR156,2025-09-30,296,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.2127659574468085
-QR156,2025-09-30,296,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3141025641025641
-QR156,2025-09-30,296,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.25
-QR156,2025-09-30,296,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.3076923076923077
-QR156,2025-09-30,296,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.31952662721893493
-AA149,2025-09-30,138,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3230769230769231
-AA149,2025-09-30,138,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.17117117117117117
-AA149,2025-09-30,138,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2638888888888889
-AA149,2025-09-30,138,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.35802469135802467
-AA150,2025-09-30,145,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.42857142857142855
-AA150,2025-09-30,145,Still Water 500ml,0.5,,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.1951219512195122
-AA150,2025-09-30,145,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.29133858267716534
-AA150,2025-09-30,145,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.24390243902439024
-AM170,2025-10-01,266,Instant Coffee Stick,0.08,,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3053435114503817
-AM170,2025-10-01,266,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.31100478468899523
-AM170,2025-10-01,266,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.16595744680851063
-AM170,2025-10-01,266,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3026315789473684
-AM170,2025-10-01,266,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.27976190476190477
-BA166,2025-10-01,313,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.17318435754189945
-BA166,2025-10-01,313,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.21254355400696864
-BA166,2025-10-01,313,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.18471337579617833
-BA166,2025-10-01,313,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.32558139534883723
-BA166,2025-10-01,313,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.23595505617977527
-QR165,2025-10-01,318,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.398876404494382
-QR165,2025-10-01,318,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.24242424242424243
-QR165,2025-10-01,318,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.23504273504273504
-QR165,2025-10-01,318,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3514644351464435
-QR165,2025-10-01,318,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.30687830687830686
-AA164,2025-10-01,173,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.20353982300884957
-AA164,2025-10-01,173,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.29333333333333333
-AA164,2025-10-01,173,Herbal Tea Bag,0.06,low demand,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.45977011494252873
-AA164,2025-10-01,173,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.2642857142857143
-QR163,2025-10-01,174,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.3269230769230769
-QR163,2025-10-01,174,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.24390243902439024
-QR163,2025-10-01,174,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.17894736842105263
-QR163,2025-10-01,174,Butter Cookies 75g,0.75,drawer incomplete,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.20930232558139536
-QR163,2025-10-01,174,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.3533834586466165
-QR163,2025-10-01,174,Herbal Tea Bag,0.06,,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3333333333333333
-QR163,2025-10-01,174,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.38666666666666666
-AA172,2025-10-01,298,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.24725274725274726
-AA172,2025-10-01,298,Chocolate Bar 50g,0.8,drawer incomplete,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.16233766233766234
-AA172,2025-10-01,298,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.16312056737588654
-AA172,2025-10-01,298,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.36363636363636365
-AA172,2025-10-01,298,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.3232758620689655
-AA172,2025-10-01,298,Snack Box Economy,2.1,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.36180904522613067
-BA171,2025-10-01,324,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.18556701030927836
-BA171,2025-10-01,324,Chocolate Bar 50g,0.8,low demand,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.42592592592592593
-BA171,2025-10-01,324,Instant Coffee Stick,0.08,drawer incomplete,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.15151515151515152
-BA171,2025-10-01,324,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2
-BA171,2025-10-01,324,Juice 200ml,0.55,drawer incomplete,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.4388185654008439
-BA171,2025-10-01,324,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2549019607843137
-AM167,2025-10-01,282,Instant Coffee Stick,0.08,low demand,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.4825174825174825
-AM167,2025-10-01,282,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.4626865671641791
-AM167,2025-10-01,282,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.3488372093023256
-AM167,2025-10-01,282,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.2706766917293233
-AM167,2025-10-01,282,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.32903225806451614
-LX168,2025-10-01,304,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.39408866995073893
-LX168,2025-10-01,304,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3916083916083916
-LX168,2025-10-01,304,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.39864864864864863
-LX168,2025-10-01,304,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.19135802469135801
-LX168,2025-10-01,304,Sparkling Water 330ml,0.45,,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.30337078651685395
-LX168,2025-10-01,304,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.1894273127753304
-LX168,2025-10-01,304,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.39759036144578314
-AA161,2025-10-01,157,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.3333333333333333
-AA161,2025-10-01,157,Butter Cookies 75g,0.75,,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.323943661971831
-AA161,2025-10-01,157,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.140625
-AA161,2025-10-01,157,Herbal Tea Bag,0.06,,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.36363636363636365
-AA161,2025-10-01,157,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.1736111111111111
-AA161,2025-10-01,157,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.28378378378378377
-AA182,2025-10-02,301,Bread Roll Pack,0.35,,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.4110429447852761
-AA182,2025-10-02,301,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.26811594202898553
-AA182,2025-10-02,301,Herbal Tea Bag,0.06,,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3872832369942196
-AA182,2025-10-02,301,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.291044776119403
-AA182,2025-10-02,301,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.39634146341463417
-AA177,2025-10-02,294,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2605633802816901
-AA177,2025-10-02,294,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3006993006993007
-AA177,2025-10-02,294,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3013698630136986
-AA177,2025-10-02,294,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.42948717948717946
-AA177,2025-10-02,294,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4381443298969072
-LX175,2025-10-02,138,Butter Cookies 75g,0.75,,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.34177215189873417
-LX175,2025-10-02,138,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2727272727272727
-LX175,2025-10-02,138,Herbal Tea Bag,0.06,,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3918918918918919
-LX175,2025-10-02,138,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.31092436974789917
-AM179,2025-10-02,303,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.1780821917808219
-AM179,2025-10-02,303,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.36470588235294116
-AM179,2025-10-02,303,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.423728813559322
-AM179,2025-10-02,303,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.3939393939393939
-AM179,2025-10-02,303,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.19680851063829788
-BA174,2025-10-02,167,Chocolate Bar 50g,0.8,drawer incomplete,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.26582278481012656
-BA174,2025-10-02,167,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.32608695652173914
-BA174,2025-10-02,167,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.21323529411764705
-BA174,2025-10-02,167,Still Water 500ml,0.5,,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.140625
-BA174,2025-10-02,167,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.31724137931034485
-BA174,2025-10-02,167,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2692307692307692
-BA174,2025-10-02,167,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.25773195876288657
-AM189,2025-10-03,318,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.1588235294117647
-AM189,2025-10-03,318,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4858757062146893
-AM189,2025-10-03,318,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3062015503875969
-AM189,2025-10-03,318,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.25833333333333336
-AM189,2025-10-03,318,Mixed Nuts 30g,0.65,low demand,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4391891891891892
-LX190,2025-10-03,325,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3137254901960784
-LX190,2025-10-03,325,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.22580645161290322
-LX190,2025-10-03,325,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2865853658536585
-LX190,2025-10-03,325,Sparkling Water 330ml,0.45,drawer incomplete,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.25704225352112675
-LX190,2025-10-03,325,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.39299610894941633
-LX190,2025-10-03,325,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.44324324324324327
-LX190,2025-10-03,325,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3140096618357488
-AM188,2025-10-03,151,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.19480519480519481
-AM188,2025-10-03,151,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2876712328767123
-AM188,2025-10-03,151,Butter Cookies 75g,0.75,,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3253012048192771
-AM188,2025-10-03,151,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.22413793103448276
-AM188,2025-10-03,151,Still Water 500ml,0.5,,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.390625
-AM188,2025-10-03,151,Herbal Tea Bag,0.06,,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.2
-AM188,2025-10-03,151,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.45454545454545453
-AM195,2025-10-03,325,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.24324324324324326
-AM195,2025-10-03,325,Instant Coffee Stick,0.08,,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.3806818181818182
-AM195,2025-10-03,325,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2864864864864865
-AM195,2025-10-03,325,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.16262975778546712
-AM195,2025-10-03,325,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3867403314917127
-AM195,2025-10-03,325,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.23282442748091603
-AM195,2025-10-03,325,Snack Box Economy,2.1,drawer incomplete,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.3598130841121495
-BA196,2025-10-03,305,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.36619718309859156
-BA196,2025-10-03,305,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.4345991561181435
-BA196,2025-10-03,305,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.35403726708074534
-BA196,2025-10-03,305,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.3958333333333333
-AA186,2025-10-03,166,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.3516483516483517
-AA186,2025-10-03,166,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.28888888888888886
-AA186,2025-10-03,166,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.20430107526881722
-AA186,2025-10-03,166,Butter Cookies 75g,0.75,,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.17105263157894737
-AA186,2025-10-03,166,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.27586206896551724
-AA186,2025-10-03,166,Herbal Tea Bag,0.06,,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.20212765957446807
-AA186,2025-10-03,166,Snack Box Economy,2.1,low demand,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.41509433962264153
-AM185,2025-10-03,137,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.39080459770114945
-AM185,2025-10-03,137,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.2692307692307692
-AM185,2025-10-03,137,Butter Cookies 75g,0.75,,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.1643835616438356
-AM185,2025-10-03,137,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.1951219512195122
-AM185,2025-10-03,137,Herbal Tea Bag,0.06,low demand,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.4230769230769231
-AM185,2025-10-03,137,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.3972602739726027
-AA206,2025-10-04,294,Bread Roll Pack,0.35,,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.25925925925925924
-AA206,2025-10-04,294,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.45323741007194246
-AA206,2025-10-04,294,Instant Coffee Stick,0.08,low demand,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.43537414965986393
-AA206,2025-10-04,294,Butter Cookies 75g,0.75,,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.20833333333333334
-AA206,2025-10-04,294,Sparkling Water 330ml,0.45,,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.26996197718631176
-AA206,2025-10-04,294,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3037037037037037
-AA206,2025-10-04,294,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.31958762886597936
-AM202,2025-10-04,289,Chocolate Bar 50g,0.8,drawer incomplete,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.271523178807947
-AM202,2025-10-04,289,Instant Coffee Stick,0.08,drawer incomplete,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2463768115942029
-AM202,2025-10-04,289,Butter Cookies 75g,0.75,low demand,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.45112781954887216
-AM202,2025-10-04,289,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.2948717948717949
-AM202,2025-10-04,289,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3793103448275862
-AM202,2025-10-04,289,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3333333333333333
-AM202,2025-10-04,289,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4631578947368421
-AA200,2025-10-04,168,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.34065934065934067
-AA200,2025-10-04,168,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.2235294117647059
-AA200,2025-10-04,168,Still Water 500ml,0.5,,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.19117647058823528
-AA200,2025-10-04,168,Mixed Nuts 30g,0.65,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.32098765432098764
-AA200,2025-10-04,168,Snack Box Economy,2.1,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3185840707964602
-NH199,2025-10-04,172,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.1827956989247312
-NH199,2025-10-04,172,Herbal Tea Bag,0.06,,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.32608695652173914
-NH199,2025-10-04,172,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.32666666666666666
-NH199,2025-10-04,172,Mixed Nuts 30g,0.65,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.2967032967032967
-NH199,2025-10-04,172,Snack Box Economy,2.1,drawer incomplete,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.23853211009174313
-BA208,2025-10-04,281,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.4533898305084746
-BA208,2025-10-04,281,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3422818791946309
-BA208,2025-10-04,281,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.2727272727272727
-BA208,2025-10-04,281,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.4295774647887324
-BA208,2025-10-04,281,Snack Box Economy,2.1,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.2914285714285714
-LX207,2025-10-04,326,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.14084507042253522
-LX207,2025-10-04,326,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.23529411764705882
-LX207,2025-10-04,326,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.3333333333333333
-LX207,2025-10-04,326,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.29259259259259257
-QR203,2025-10-04,275,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3716216216216216
-QR203,2025-10-04,275,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.43790849673202614
-QR203,2025-10-04,275,Sparkling Water 330ml,0.45,drawer incomplete,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.16587677725118483
-QR203,2025-10-04,275,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.3188405797101449
-QR203,2025-10-04,275,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.23404255319148937
-AA217,2025-10-05,299,Bread Roll Pack,0.35,,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.34065934065934067
-AA217,2025-10-05,299,Chocolate Bar 50g,0.8,,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3161764705882353
-AA217,2025-10-05,299,Instant Coffee Stick,0.08,,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.20245398773006135
-AA217,2025-10-05,299,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3062015503875969
-AA217,2025-10-05,299,Herbal Tea Bag,0.06,,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.45517241379310347
-AA217,2025-10-05,299,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3035019455252918
-AA217,2025-10-05,299,Snack Box Economy,2.1,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3826530612244898
-BA218,2025-10-05,254,Instant Coffee Stick,0.08,,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.16551724137931034
-BA218,2025-10-05,254,Butter Cookies 75g,0.75,low demand,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4444444444444444
-BA218,2025-10-05,254,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.46195652173913043
-BA218,2025-10-05,254,Herbal Tea Bag,0.06,,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.14173228346456693
-BA218,2025-10-05,254,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3364485981308411
-BA218,2025-10-05,254,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3511450381679389
-LX213,2025-10-05,311,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3935483870967742
-LX213,2025-10-05,311,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.1801470588235294
-LX213,2025-10-05,311,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.18972332015810275
-LX213,2025-10-05,311,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3413173652694611
-LX213,2025-10-05,311,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.375968992248062
-LX213,2025-10-05,311,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.35638297872340424
-AM219,2025-10-05,294,Instant Coffee Stick,0.08,,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.1893939393939394
-AM219,2025-10-05,294,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.19014084507042253
-AM219,2025-10-05,294,Still Water 500ml,0.5,,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.31896551724137934
-AM219,2025-10-05,294,Herbal Tea Bag,0.06,,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.40425531914893614
-AM219,2025-10-05,294,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.38202247191011235
-AM219,2025-10-05,294,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2391304347826087
-AA210,2025-10-05,145,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3333333333333333
-AA210,2025-10-05,145,Butter Cookies 75g,0.75,drawer incomplete,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.323943661971831
-AA210,2025-10-05,145,Sparkling Water 330ml,0.45,,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.2761904761904762
-AA210,2025-10-05,145,Herbal Tea Bag,0.06,drawer incomplete,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.3670886075949367
-AA210,2025-10-05,145,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.3037974683544304
-AA210,2025-10-05,145,Snack Box Economy,2.1,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.3402061855670103
-LX209,2025-10-05,123,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.4861111111111111
-LX209,2025-10-05,123,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.2727272727272727
-LX209,2025-10-05,123,Instant Coffee Stick,0.08,,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.288135593220339
-LX209,2025-10-05,123,Still Water 500ml,0.5,drawer incomplete,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.22727272727272727
-LX209,2025-10-05,123,Juice 200ml,0.55,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.1827956989247312
-LX209,2025-10-05,123,Snack Box Economy,2.1,drawer incomplete,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.14864864864864866
-QR230,2025-10-06,244,Instant Coffee Stick,0.08,,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.368
-QR230,2025-10-06,244,Butter Cookies 75g,0.75,,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.34710743801652894
-QR230,2025-10-06,244,Sparkling Water 330ml,0.45,drawer incomplete,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2930232558139535
-QR230,2025-10-06,244,Still Water 500ml,0.5,,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.31868131868131866
-QR230,2025-10-06,244,Herbal Tea Bag,0.06,,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3217391304347826
-QR230,2025-10-06,244,Juice 200ml,0.55,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3672316384180791
-QR230,2025-10-06,244,Mixed Nuts 30g,0.65,,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4
-AA225,2025-10-06,261,Bread Roll Pack,0.35,,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.20555555555555555
-AA225,2025-10-06,261,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.22857142857142856
-AA225,2025-10-06,261,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18137254901960784
-AA225,2025-10-06,261,Herbal Tea Bag,0.06,,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.33076923076923076
-AA225,2025-10-06,261,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3380952380952381
-AA225,2025-10-06,261,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3114754098360656
-AA225,2025-10-06,261,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.39080459770114945
-BA226,2025-10-06,313,Instant Coffee Stick,0.08,,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2465753424657534
-BA226,2025-10-06,313,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.17333333333333334
-BA226,2025-10-06,313,Sparkling Water 330ml,0.45,,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.14285714285714285
-BA226,2025-10-06,313,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.20727272727272728
-BA226,2025-10-06,313,Herbal Tea Bag,0.06,drawer incomplete,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.16025641025641027
-BA224,2025-10-06,131,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2891566265060241
-BA224,2025-10-06,131,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.4
-BA224,2025-10-06,131,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.4098360655737705
-BA224,2025-10-06,131,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.47
-BA224,2025-10-06,131,Snack Box Economy,2.1,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.2976190476190476
-AA231,2025-10-06,332,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.16463414634146342
-AA231,2025-10-06,332,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.2578397212543554
-AA231,2025-10-06,332,Still Water 500ml,0.5,drawer incomplete,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.3498233215547703
-AA231,2025-10-06,332,Mixed Nuts 30g,0.65,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.1419753086419753
-AM232,2025-10-06,327,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.4608294930875576
-AM232,2025-10-06,327,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.4533333333333333
-AM232,2025-10-06,327,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.2840466926070039
-AM232,2025-10-06,327,Juice 200ml,0.55,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.2768166089965398
-AM232,2025-10-06,327,Snack Box Economy,2.1,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.26595744680851063
-AM228,2025-10-06,321,Bread Roll Pack,0.35,,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.2175925925925926
-AM228,2025-10-06,321,Chocolate Bar 50g,0.8,,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.22826086956521738
-AM228,2025-10-06,321,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.24295774647887325
-AM228,2025-10-06,321,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.35795454545454547
-AM228,2025-10-06,321,Juice 200ml,0.55,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.32677165354330706
-AM228,2025-10-06,321,Mixed Nuts 30g,0.65,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.38311688311688313
-AM228,2025-10-06,321,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.31693989071038253
-BA227,2025-10-06,311,Instant Coffee Stick,0.08,,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.4457831325301205
-BA227,2025-10-06,311,Butter Cookies 75g,0.75,,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.4304635761589404
-BA227,2025-10-06,311,Sparkling Water 330ml,0.45,,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.1615720524017467
-BA227,2025-10-06,311,Still Water 500ml,0.5,,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.20512820512820512
-BA227,2025-10-06,311,Herbal Tea Bag,0.06,,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2874251497005988
-BA227,2025-10-06,311,Snack Box Economy,2.1,,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.2182741116751269
-NH221,2025-10-06,152,Bread Roll Pack,0.35,,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.33695652173913043
-NH221,2025-10-06,152,Chocolate Bar 50g,0.8,,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3855421686746988
-NH221,2025-10-06,152,Instant Coffee Stick,0.08,drawer incomplete,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.1643835616438356
-NH221,2025-10-06,152,Mixed Nuts 30g,0.65,,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.24358974358974358
-AA237,2025-10-07,340,Instant Coffee Stick,0.08,drawer incomplete,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3179190751445087
-AA237,2025-10-07,340,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3333333333333333
-AA237,2025-10-07,340,Juice 200ml,0.55,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.21241830065359477
-AA237,2025-10-07,340,Mixed Nuts 30g,0.65,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.35119047619047616
-AA237,2025-10-07,340,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.275
-BA238,2025-10-07,317,Chocolate Bar 50g,0.8,,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.422360248447205
-BA238,2025-10-07,317,Butter Cookies 75g,0.75,,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2413793103448276
-BA238,2025-10-07,317,Still Water 500ml,0.5,,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.14453125
-BA238,2025-10-07,317,Snack Box Economy,2.1,,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.19270833333333334
-NH236,2025-10-07,152,Bread Roll Pack,0.35,,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2087912087912088
-NH236,2025-10-07,152,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2857142857142857
-NH236,2025-10-07,152,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.1746031746031746
-NH236,2025-10-07,152,Still Water 500ml,0.5,,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.421875
-NH236,2025-10-07,152,Mixed Nuts 30g,0.65,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.18292682926829268
-QR235,2025-10-07,159,Chocolate Bar 50g,0.8,,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.17333333333333334
-QR235,2025-10-07,159,Instant Coffee Stick,0.08,,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.1891891891891892
-QR235,2025-10-07,159,Sparkling Water 330ml,0.45,,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2755905511811024
-QR235,2025-10-07,159,Still Water 500ml,0.5,,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.4830508474576271
-QR235,2025-10-07,159,Herbal Tea Bag,0.06,,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3472222222222222
-QR235,2025-10-07,159,Juice 200ml,0.55,,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.392
-LX244,2025-10-07,348,Bread Roll Pack,0.35,,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.2557077625570776
-LX244,2025-10-07,348,Chocolate Bar 50g,0.8,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3352272727272727
-LX244,2025-10-07,348,Butter Cookies 75g,0.75,,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2185792349726776
-LX244,2025-10-07,348,Sparkling Water 330ml,0.45,,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.22137404580152673
+Passenger_Count,Unit_Cost,haul,Origin_DOH,Origin_JFK,Origin_LHR,Origin_MEX,Origin_NRT,Origin_ZRH,Product_BRD001,Product_CHO050,Product_COF200,Product_CRK075,Product_DRK023,Product_DRK024,Product_HTB110,Product_JCE200,Product_NUT030,Product_SNK001,Percentage_Returned,day,flights,passengers,max capacity,Avg_Pass_Per_Flight_Day,Load_vs_Daily_Avg
+272,0.35,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.327683615819209,0.0,0.0,0.0,0.0,0.0,0.0
+272,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32653061224489793,0.0,0.0,0.0,0.0,0.0,0.0
+272,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2748091603053435,0.0,0.0,0.0,0.0,0.0,0.0
+272,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18048780487804877,0.0,0.0,0.0,0.0,0.0,0.0
+272,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.48223350253807107,0.0,0.0,0.0,0.0,0.0,0.0
+272,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.4199134199134199,0.0,0.0,0.0,0.0,0.0,0.0
+272,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.22905027932960895,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32515337423312884,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.20422535211267606,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.19463087248322147,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.468,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3811659192825112,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.22065727699530516,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.23076923076923078,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.2802547770700637,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.20279720279720279,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.41706161137440756,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.19402985074626866,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.38188976377952755,0.0,0.0,0.0,0.0,0.0,0.0
+292,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.4927536231884058,0.0,0.0,0.0,0.0,0.0,0.0
+133,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.1978021978021978,0.0,0.0,0.0,0.0,0.0,0.0
+133,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.3,0.0,0.0,0.0,0.0,0.0,0.0
+133,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.44339622641509435,0.0,0.0,0.0,0.0,0.0,0.0
+133,0.5,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.14150943396226415,0.0,0.0,0.0,0.0,0.0,0.0
+133,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.17592592592592593,0.0,0.0,0.0,0.0,0.0,0.0
+133,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.4583333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.18309859154929578,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.275,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.4788732394366197,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.48148148148148145,0.0,0.0,0.0,0.0,0.0,0.0
+154,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.27848101265822783,0.0,0.0,0.0,0.0,0.0,0.0
+154,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.38235294117647056,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.2119205298013245,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.327683615819209,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.2986111111111111,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.44047619047619047,0.0,0.0,0.0,0.0,0.0,0.0
+317,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.45161290322580644,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.23115577889447236,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3096774193548387,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.32679738562091504,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.43529411764705883,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3248407643312102,0.0,0.0,0.0,0.0,0.0,0.0
+150,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.1935483870967742,0.0,0.0,0.0,0.0,0.0,0.0
+150,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0
+150,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.27710843373493976,0.0,0.0,0.0,0.0,0.0,0.0
+150,0.65,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.12857142857142856,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.3263157894736842,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3072289156626506,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.08,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.37662337662337664,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.29914529914529914,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.376425855513308,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.36666666666666664,0.0,0.0,0.0,0.0,0.0,0.0
+316,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.23333333333333334,0.0,0.0,0.0,0.0,0.0,0.0
+336,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.178743961352657,0.0,0.0,0.0,0.0,0.0,0.0
+336,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.3493975903614458,0.0,0.0,0.0,0.0,0.0,0.0
+336,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2459016393442623,0.0,0.0,0.0,0.0,0.0,0.0
+336,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.3443708609271523,0.0,0.0,0.0,0.0,0.0,0.0
+336,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+336,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.30735930735930733,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.37790697674418605,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3191489361702128,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.1488095238095238,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3125,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.22602739726027396,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.23863636363636365,0.0,0.0,0.0,0.0,0.0,0.0
+311,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.18095238095238095,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.4090909090909091,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.37142857142857144,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.18461538461538463,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.3924050632911392,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.3875968992248062,0.0,0.0,0.0,0.0,0.0,0.0
+141,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.47761194029850745,0.0,0.0,0.0,0.0,0.0,0.0
+141,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.35802469135802467,0.0,0.0,0.0,0.0,0.0,0.0
+249,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3770491803278688,0.0,0.0,0.0,0.0,0.0,0.0
+249,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+249,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.34977578475336324,0.0,0.0,0.0,0.0,0.0,0.0
+249,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.17647058823529413,0.0,0.0,0.0,0.0,0.0,0.0
+249,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.375,0.0,0.0,0.0,0.0,0.0,0.0
+252,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.47863247863247865,0.0,0.0,0.0,0.0,0.0,0.0
+252,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.14537444933920704,0.0,0.0,0.0,0.0,0.0,0.0
+252,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0
+252,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.4336734693877551,0.0,0.0,0.0,0.0,0.0,0.0
+308,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.16,0.0,0.0,0.0,0.0,0.0,0.0
+308,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.21370967741935484,0.0,0.0,0.0,0.0,0.0,0.0
+308,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.16455696202531644,0.0,0.0,0.0,0.0,0.0,0.0
+308,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+146,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+146,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.37735849056603776,0.0,0.0,0.0,0.0,0.0,0.0
+146,0.65,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.1875,0.0,0.0,0.0,0.0,0.0,0.0
+146,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3793103448275862,0.0,0.0,0.0,0.0,0.0,0.0
+306,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3611111111111111,0.0,0.0,0.0,0.0,0.0,0.0
+306,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.22602739726027396,0.0,0.0,0.0,0.0,0.0,0.0
+306,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2916666666666667,0.0,0.0,0.0,0.0,0.0,0.0
+306,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.49404761904761907,0.0,0.0,0.0,0.0,0.0,0.0
+293,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.34673366834170855,0.0,0.0,0.0,0.0,0.0,0.0
+293,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3458646616541353,0.0,0.0,0.0,0.0,0.0,0.0
+293,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.3106060606060606,0.0,0.0,0.0,0.0,0.0,0.0
+293,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.20599250936329588,0.0,0.0,0.0,0.0,0.0,0.0
+367,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+367,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.16908212560386474,0.0,0.0,0.0,0.0,0.0,0.0
+367,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.40718562874251496,0.0,0.0,0.0,0.0,0.0,0.0
+367,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.2693877551020408,0.0,0.0,0.0,0.0,0.0,0.0
+297,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.22435897435897437,0.0,0.0,0.0,0.0,0.0,0.0
+297,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.42792792792792794,0.0,0.0,0.0,0.0,0.0,0.0
+297,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.40225563909774437,0.0,0.0,0.0,0.0,0.0,0.0
+297,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.43356643356643354,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.43373493975903615,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.3188405797101449,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.211864406779661,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.2535211267605634,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.3055555555555556,0.0,0.0,0.0,0.0,0.0,0.0
+135,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+135,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.2976190476190476,0.0,0.0,0.0,0.0,0.0,0.0
+276,0.35,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.17721518987341772,0.0,0.0,0.0,0.0,0.0,0.0
+276,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.1875,0.0,0.0,0.0,0.0,0.0,0.0
+276,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.40789473684210525,0.0,0.0,0.0,0.0,0.0,0.0
+276,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.26573426573426573,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.40336134453781514,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.39622641509433965,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18085106382978725,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.31088082901554404,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.22164948453608246,0.0,0.0,0.0,0.0,0.0,0.0
+225,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.34615384615384615,0.0,0.0,0.0,0.0,0.0,0.0
+225,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.19095477386934673,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3081761006289308,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.19333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.22072072072072071,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.33181818181818185,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.32727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3072289156626506,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4189189189189189,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.5126050420168067,0.0,0.0,0.0,0.0,0.0,0.0
+311,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.19883040935672514,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.32978723404255317,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.24050632911392406,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.4318181818181818,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.22988505747126436,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.30985915492957744,0.0,0.0,0.0,0.0,0.0,0.0
+166,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.19069767441860466,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.30201342281879195,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.42196531791907516,0.0,0.0,0.0,0.0,0.0,0.0
+325,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.41379310344827586,0.0,0.0,0.0,0.0,0.0,0.0
+268,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.32903225806451614,0.0,0.0,0.0,0.0,0.0,0.0
+268,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.19111111111111112,0.0,0.0,0.0,0.0,0.0,0.0
+268,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2866666666666667,0.0,0.0,0.0,0.0,0.0,0.0
+268,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.29207920792079206,0.0,0.0,0.0,0.0,0.0,0.0
+268,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.43333333333333335,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3724137931034483,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.39849624060150374,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.2772727272727273,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.26,0.0,0.0,0.0,0.0,0.0,0.0
+303,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.3155080213903743,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3135593220338983,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2826086956521739,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.48205128205128206,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.06,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.26495726495726496,0.0,0.0,0.0,0.0,0.0,0.0
+254,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.432258064516129,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2057142857142857,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.21153846153846154,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.35294117647058826,0.0,0.0,0.0,0.0,0.0,0.0
+314,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.24568965517241378,0.0,0.0,0.0,0.0,0.0,0.0
+187,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+187,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.27,0.0,0.0,0.0,0.0,0.0,0.0
+187,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3469387755102041,0.0,0.0,0.0,0.0,0.0,0.0
+187,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.37681159420289856,0.0,0.0,0.0,0.0,0.0,0.0
+187,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.2975206611570248,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.08,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.375,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.4025974025974026,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.43891402714932126,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3722627737226277,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.3716475095785441,0.0,0.0,0.0,0.0,0.0,0.0
+285,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.23308270676691728,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.20512820512820512,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.375,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.2127659574468085,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.3141025641025641,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+296,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.3076923076923077,0.0,0.0,0.0,0.0,0.0,0.0
+296,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.31952662721893493,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3230769230769231,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.17117117117117117,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2638888888888889,0.0,0.0,0.0,0.0,0.0,0.0
+138,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.35802469135802467,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.5,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.1951219512195122,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.29133858267716534,0.0,0.0,0.0,0.0,0.0,0.0
+145,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.24390243902439024,0.0,0.0,0.0,0.0,0.0,0.0
+266,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3053435114503817,0.0,0.0,0.0,0.0,0.0,0.0
+266,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.31100478468899523,0.0,0.0,0.0,0.0,0.0,0.0
+266,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.16595744680851063,0.0,0.0,0.0,0.0,0.0,0.0
+266,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3026315789473684,0.0,0.0,0.0,0.0,0.0,0.0
+266,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.27976190476190477,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.17318435754189945,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.21254355400696864,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.18471337579617833,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.32558139534883723,0.0,0.0,0.0,0.0,0.0,0.0
+313,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.23595505617977527,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.398876404494382,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.24242424242424243,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.23504273504273504,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3514644351464435,0.0,0.0,0.0,0.0,0.0,0.0
+318,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.30687830687830686,0.0,0.0,0.0,0.0,0.0,0.0
+173,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.20353982300884957,0.0,0.0,0.0,0.0,0.0,0.0
+173,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.29333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+173,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.45977011494252873,0.0,0.0,0.0,0.0,0.0,0.0
+173,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.2642857142857143,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.3269230769230769,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.24390243902439024,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.17894736842105263,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.20930232558139536,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.3533834586466165,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+174,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.38666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
+298,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.24725274725274726,0.0,0.0,0.0,0.0,0.0,0.0
+298,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.16233766233766234,0.0,0.0,0.0,0.0,0.0,0.0
+298,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.16312056737588654,0.0,0.0,0.0,0.0,0.0,0.0
+298,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.36363636363636365,0.0,0.0,0.0,0.0,0.0,0.0
+298,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.3232758620689655,0.0,0.0,0.0,0.0,0.0,0.0
+298,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.36180904522613067,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.18556701030927836,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.42592592592592593,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.08,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.15151515151515152,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.4388185654008439,0.0,0.0,0.0,0.0,0.0,0.0
+324,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2549019607843137,0.0,0.0,0.0,0.0,0.0,0.0
+282,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.4825174825174825,0.0,0.0,0.0,0.0,0.0,0.0
+282,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.4626865671641791,0.0,0.0,0.0,0.0,0.0,0.0
+282,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.3488372093023256,0.0,0.0,0.0,0.0,0.0,0.0
+282,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.2706766917293233,0.0,0.0,0.0,0.0,0.0,0.0
+282,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.32903225806451614,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.39408866995073893,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3916083916083916,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.39864864864864863,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.19135802469135801,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.30337078651685395,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.1894273127753304,0.0,0.0,0.0,0.0,0.0,0.0
+304,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.39759036144578314,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.323943661971831,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.140625,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.36363636363636365,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.1736111111111111,0.0,0.0,0.0,0.0,0.0,0.0
+157,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.28378378378378377,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.35,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.4110429447852761,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.26811594202898553,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.06,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3872832369942196,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.291044776119403,0.0,0.0,0.0,0.0,0.0,0.0
+301,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.39634146341463417,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2605633802816901,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3006993006993007,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3013698630136986,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.42948717948717946,0.0,0.0,0.0,0.0,0.0,0.0
+294,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4381443298969072,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.34177215189873417,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3918918918918919,0.0,0.0,0.0,0.0,0.0,0.0
+138,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.31092436974789917,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.1780821917808219,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.36470588235294116,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.423728813559322,0.0,0.0,0.0,0.0,0.0,0.0
+303,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.3939393939393939,0.0,0.0,0.0,0.0,0.0,0.0
+303,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.19680851063829788,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.26582278481012656,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.32608695652173914,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.21323529411764705,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.5,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.140625,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.31724137931034485,0.0,0.0,0.0,0.0,0.0,0.0
+167,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.2692307692307692,0.0,0.0,0.0,0.0,0.0,0.0
+167,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.25773195876288657,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.1588235294117647,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4858757062146893,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3062015503875969,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.25833333333333336,0.0,0.0,0.0,0.0,0.0,0.0
+318,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4391891891891892,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3137254901960784,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.22580645161290322,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2865853658536585,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.25704225352112675,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.39299610894941633,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.44324324324324327,0.0,0.0,0.0,0.0,0.0,0.0
+325,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3140096618357488,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.19480519480519481,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2876712328767123,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.75,1,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3253012048192771,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.22413793103448276,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.5,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.390625,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+151,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.24324324324324326,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.08,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.3806818181818182,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2864864864864865,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.16262975778546712,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3867403314917127,0.0,0.0,0.0,0.0,0.0,0.0
+325,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.23282442748091603,0.0,0.0,0.0,0.0,0.0,0.0
+325,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.3598130841121495,0.0,0.0,0.0,0.0,0.0,0.0
+305,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.36619718309859156,0.0,0.0,0.0,0.0,0.0,0.0
+305,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.4345991561181435,0.0,0.0,0.0,0.0,0.0,0.0
+305,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.35403726708074534,0.0,0.0,0.0,0.0,0.0,0.0
+305,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.3958333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.3516483516483517,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.28888888888888886,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.20430107526881722,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.17105263157894737,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.27586206896551724,0.0,0.0,0.0,0.0,0.0,0.0
+166,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.20212765957446807,0.0,0.0,0.0,0.0,0.0,0.0
+166,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.41509433962264153,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.39080459770114945,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.2692307692307692,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.1643835616438356,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.1951219512195122,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.4230769230769231,0.0,0.0,0.0,0.0,0.0,0.0
+137,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.3972602739726027,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.35,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.25925925925925924,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.45323741007194246,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.43537414965986393,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.20833333333333334,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.26996197718631176,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3037037037037037,0.0,0.0,0.0,0.0,0.0,0.0
+294,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.31958762886597936,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.271523178807947,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2463768115942029,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.45112781954887216,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.2948717948717949,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3793103448275862,0.0,0.0,0.0,0.0,0.0,0.0
+289,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+289,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.4631578947368421,0.0,0.0,0.0,0.0,0.0,0.0
+168,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.34065934065934067,0.0,0.0,0.0,0.0,0.0,0.0
+168,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.2235294117647059,0.0,0.0,0.0,0.0,0.0,0.0
+168,0.5,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.19117647058823528,0.0,0.0,0.0,0.0,0.0,0.0
+168,0.65,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.32098765432098764,0.0,0.0,0.0,0.0,0.0,0.0
+168,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3185840707964602,0.0,0.0,0.0,0.0,0.0,0.0
+172,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.1827956989247312,0.0,0.0,0.0,0.0,0.0,0.0
+172,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.32608695652173914,0.0,0.0,0.0,0.0,0.0,0.0
+172,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.32666666666666666,0.0,0.0,0.0,0.0,0.0,0.0
+172,0.65,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.2967032967032967,0.0,0.0,0.0,0.0,0.0,0.0
+172,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.23853211009174313,0.0,0.0,0.0,0.0,0.0,0.0
+281,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.4533898305084746,0.0,0.0,0.0,0.0,0.0,0.0
+281,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.3422818791946309,0.0,0.0,0.0,0.0,0.0,0.0
+281,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+281,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.4295774647887324,0.0,0.0,0.0,0.0,0.0,0.0
+281,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.2914285714285714,0.0,0.0,0.0,0.0,0.0,0.0
+326,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.14084507042253522,0.0,0.0,0.0,0.0,0.0,0.0
+326,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.23529411764705882,0.0,0.0,0.0,0.0,0.0,0.0
+326,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+326,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.29259259259259257,0.0,0.0,0.0,0.0,0.0,0.0
+275,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.3716216216216216,0.0,0.0,0.0,0.0,0.0,0.0
+275,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.43790849673202614,0.0,0.0,0.0,0.0,0.0,0.0
+275,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.16587677725118483,0.0,0.0,0.0,0.0,0.0,0.0
+275,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.3188405797101449,0.0,0.0,0.0,0.0,0.0,0.0
+275,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.23404255319148937,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.35,2,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.34065934065934067,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.8,2,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.3161764705882353,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.20245398773006135,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3062015503875969,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.06,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.45517241379310347,0.0,0.0,0.0,0.0,0.0,0.0
+299,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3035019455252918,0.0,0.0,0.0,0.0,0.0,0.0
+299,2.1,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.3826530612244898,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.16551724137931034,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.4444444444444444,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.46195652173913043,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.06,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.14173228346456693,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3364485981308411,0.0,0.0,0.0,0.0,0.0,0.0
+254,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3511450381679389,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.3935483870967742,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.1801470588235294,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.18972332015810275,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3413173652694611,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.375968992248062,0.0,0.0,0.0,0.0,0.0,0.0
+311,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.35638297872340424,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.08,3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,0.1893939393939394,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.19014084507042253,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.31896551724137934,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.06,3,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,0.40425531914893614,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.38202247191011235,0.0,0.0,0.0,0.0,0.0,0.0
+294,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.2391304347826087,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.75,1,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,0.323943661971831,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.45,1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.2761904761904762,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.06,1,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,0.3670886075949367,0.0,0.0,0.0,0.0,0.0,0.0
+145,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.3037974683544304,0.0,0.0,0.0,0.0,0.0,0.0
+145,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.3402061855670103,0.0,0.0,0.0,0.0,0.0,0.0
+123,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.4861111111111111,0.0,0.0,0.0,0.0,0.0,0.0
+123,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+123,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.288135593220339,0.0,0.0,0.0,0.0,0.0,0.0
+123,0.5,1,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,0.22727272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+123,0.55,1,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.1827956989247312,0.0,0.0,0.0,0.0,0.0,0.0
+123,2.1,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,0.14864864864864866,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.08,2,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.368,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.75,2,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.34710743801652894,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.45,2,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2930232558139535,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.5,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.31868131868131866,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.06,2,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3217391304347826,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.55,2,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3672316384180791,0.0,0.0,0.0,0.0,0.0,0.0
+244,0.65,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.35,3,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.20555555555555555,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.22857142857142856,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.18137254901960784,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.33076923076923076,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.3380952380952381,0.0,0.0,0.0,0.0,0.0,0.0
+261,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.3114754098360656,0.0,0.0,0.0,0.0,0.0,0.0
+261,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.39080459770114945,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2465753424657534,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.17333333333333334,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.45,3,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.20727272727272728,0.0,0.0,0.0,0.0,0.0,0.0
+313,0.06,3,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.16025641025641027,0.0,0.0,0.0,0.0,0.0,0.0
+131,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2891566265060241,0.0,0.0,0.0,0.0,0.0,0.0
+131,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.4,0.0,0.0,0.0,0.0,0.0,0.0
+131,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.4098360655737705,0.0,0.0,0.0,0.0,0.0,0.0
+131,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.47,0.0,0.0,0.0,0.0,0.0,0.0
+131,2.1,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,0.2976190476190476,0.0,0.0,0.0,0.0,0.0,0.0
+332,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.16463414634146342,0.0,0.0,0.0,0.0,0.0,0.0
+332,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.2578397212543554,0.0,0.0,0.0,0.0,0.0,0.0
+332,0.5,3,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,0.3498233215547703,0.0,0.0,0.0,0.0,0.0,0.0
+332,0.65,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.1419753086419753,0.0,0.0,0.0,0.0,0.0,0.0
+327,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.4608294930875576,0.0,0.0,0.0,0.0,0.0,0.0
+327,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.4533333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+327,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.2840466926070039,0.0,0.0,0.0,0.0,0.0,0.0
+327,0.55,3,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,0.2768166089965398,0.0,0.0,0.0,0.0,0.0,0.0
+327,2.1,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.26595744680851063,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.35,3,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,0.2175925925925926,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.8,3,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,0.22826086956521738,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.24295774647887325,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.35795454545454547,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.55,3,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,0.32677165354330706,0.0,0.0,0.0,0.0,0.0,0.0
+321,0.65,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,0.38311688311688313,0.0,0.0,0.0,0.0,0.0,0.0
+321,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.31693989071038253,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.08,3,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,0.4457831325301205,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.75,3,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,0.4304635761589404,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.45,3,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,0.1615720524017467,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.5,3,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,0.20512820512820512,0.0,0.0,0.0,0.0,0.0,0.0
+311,0.06,3,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,0.2874251497005988,0.0,0.0,0.0,0.0,0.0,0.0
+311,2.1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.2182741116751269,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.35,1,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,0.33695652173913043,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.8,1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,0.3855421686746988,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.08,1,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,0.1643835616438356,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.65,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,0.24358974358974358,0.0,0.0,0.0,0.0,0.0,0.0
+340,0.08,3,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,0.3179190751445087,0.0,0.0,0.0,0.0,0.0,0.0
+340,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+340,0.55,3,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.21241830065359477,0.0,0.0,0.0,0.0,0.0,0.0
+340,0.65,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.35119047619047616,0.0,0.0,0.0,0.0,0.0,0.0
+340,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.275,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.8,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,0.422360248447205,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.75,3,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,0.2413793103448276,0.0,0.0,0.0,0.0,0.0,0.0
+317,0.5,3,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,0.14453125,0.0,0.0,0.0,0.0,0.0,0.0
+317,2.1,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.19270833333333334,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.35,1,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,0.2087912087912088,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.1746031746031746,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.5,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.421875,0.0,0.0,0.0,0.0,0.0,0.0
+152,0.65,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,0.18292682926829268,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,0.17333333333333334,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.08,1,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,0.1891891891891892,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.45,1,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,0.2755905511811024,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.5,1,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,0.4830508474576271,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.06,1,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,0.3472222222222222,0.0,0.0,0.0,0.0,0.0,0.0
+159,0.55,1,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,0.392,0.0,0.0,0.0,0.0,0.0,0.0
+348,0.35,3,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,0.2557077625570776,0.0,0.0,0.0,0.0,0.0,0.0
+348,0.8,3,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,0.3352272727272727,0.0,0.0,0.0,0.0,0.0,0.0
+348,0.75,3,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,0.2185792349726776,0.0,0.0,0.0,0.0,0.0,0.0
+348,0.45,3,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.22137404580152673,0.0,0.0,0.0,0.0,0.0,0.0
