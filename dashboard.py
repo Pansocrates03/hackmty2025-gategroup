@@ -1,12 +1,3 @@
-# ============================================
-# dashboard_optimal_load.py
-# Predicción de CARGA ÓPTIMA para TODOS los productos del vuelo
-# Nuevas features calculadas en predicción:
-#   Spec_per_Passenger, Spec_x_Passengers, IsWeekend, Quarter,
-#   Avg_Consumed_Product, Avg_Returned_Product
-# Sin Unit_Cost
-# ============================================
-
 import streamlit as st
 import pandas as pd
 import numpy as np
